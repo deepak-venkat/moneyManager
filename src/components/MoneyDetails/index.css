@@ -1,0 +1,53 @@
+.cards-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 15px;
+}
+.card-1 {
+  height: 100px;
+  width: 225px;
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-around;
+}
+.image-1 {
+  height: 80px;
+  width: 80px;
+  margin: 5px;
+}
+.your-text {
+  font-size: 16px;
+  color: #475569;
+  margin-bottom: 5px;
+}
+.amount {
+  font-size: 22px;
+  color: #475569;
+}
+.card-2 {
+  height: 100px;
+  width: 225px;
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-around;
+}
+.card-3 {
+  height: 100px;
+  width: 225px;
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-around;
+}
